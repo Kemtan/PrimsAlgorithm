@@ -18,7 +18,8 @@ p{font-size: 1.2rem;}
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background-image: linear-gradient(120deg, rgba(255, 0, 0, 0.519), rgba(0, 0, 255, 0.421));
+    background-image: linear-gradient(120deg, rgb(235, 114, 114), rgb(118, 118, 216));
+    backdrop-filter: blur(15px);
 }
 
 

@@ -20,6 +20,7 @@ p{font-size: 1.2rem;}
     text-align: center;
     background-image: linear-gradient(120deg, rgb(235, 114, 114), rgb(118, 118, 216));
     backdrop-filter: blur(15px);
+    z-index: 1;
 }
 
 
